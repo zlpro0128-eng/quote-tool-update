@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.0.1",
+  "force_update": true,
+  "download_url": "https://itshare88.lanzoue.com/izKwI3qi584f",
+  "release_note": [
+    "新增在线更新强制提醒",
+    "保留授权激活流程",
+    "优化物流商报价表解析逻辑",
+    "优化提货区域筛选逻辑"
+  ],
+  "sha256": ""
+}
