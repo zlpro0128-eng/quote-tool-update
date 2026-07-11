@@ -1,8 +1,10 @@
 {
-  "latest_version": "2.0.2",
+  "latest_version": "2.0.12",
   "force_update": true,
-  "download_url": "https://itshare88.lanzoue.com/iv51o3qjk53c",
+  "download_url": "https://itshare88.lanzoue.com/i4Ifs3vtqhbi",
   "release_note": [
+    "增加自动清除旧报价表功能",
+    "增强对报价表的解析精准度",
     "优化上传解析报价速度",
     "优化物流商报价表解析逻辑",
     "优化提货区域筛选逻辑"
